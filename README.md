@@ -1,1 +1,1 @@
-# pure-css
+# simple css
